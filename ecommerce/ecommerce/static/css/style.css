@@ -1,0 +1,25 @@
+body{
+font-family: "Slabo 27px", serif;
+  font-weight: 400;
+  font-style: normal;
+  background-color:#fa98ae;
+}
+.footer
+{
+height:40px;
+width:100%;
+text-align:center;
+background-color:white;
+position:fixed;
+bottom:0;
+left:0;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: black;
+    font-weight:bold;
+}
+
+.form-control
+{width:50%;
+}
